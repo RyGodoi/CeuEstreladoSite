@@ -1088,3 +1088,14 @@ a:focus {
   opacity: 1;
 }
 /*# sourceMappingURL=style.css.map */
+
+.Galeria{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.Galeria > div  {
+  flex: 1 1;
+  margin-top: 20px;
+}
